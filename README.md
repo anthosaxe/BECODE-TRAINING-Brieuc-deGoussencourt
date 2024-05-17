@@ -2,7 +2,7 @@
 ## *Présentation par Brieuc de Goussencourt*
 
 
-> *Note: Cette présentation est réalisée dans le cadre d'un exercice donné pendant la formation [Digital Srint](https://becode.org/fr/les-formations/cadre-pedagogique-digital-sprint/) en février 2023.*
+> *Note: Cette présentation est réalisée dans le cadre d'un exercice donné pendant la formation [Digital Srint](https://becode.org/fr/les-formations/cadre-pedagogique-digital-sprint/) en février 2024.*
 
 [![PagedeGarde](https://blog.nwf.org/wp-content/blogs.dir/11/files/2015/12/white-collar_Pat-Roque-1024x731.jpg)](https://fr.wikipedia.org/wiki/Grizzli)
 
